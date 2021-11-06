@@ -27,13 +27,7 @@
             <h4>
                 div id="main"
             </h4>
-            <div class="article" style="width: 70px; height: 50px; background-color: #62C198;">
-                <p>
-                    div id='article'
-                </p>
-            </div>
-            <div  class="section5" style="width: 150; height: 20px; background-color: #8DD1BF;"> 
-                <h6> div id='note' </h6>
+                      
     </div>
     
 </body>
